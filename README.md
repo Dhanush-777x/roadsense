@@ -45,26 +45,18 @@ and accurate navigation experience.
 
 Here are some screenshots of the app in action:
 
-#### Data Collection Tab (Device ID, Session ID, GPS, Accelerometer, Gyroscope)
+<div align="center">
+  
+  <img src="./images/data_collection.jpeg" alt="Data Collection" width="30%" />
+  <img src="./images/mapview.jpeg" alt="Map View with OpenStreetMap integration" width="30%" />
+  <img src="./images/route_display.jpeg" alt="Route directions displayed with OSRM" width="30%" />
 
-![Data Collection](./images/data_collection.jpeg)
+  <br><br>
 
-#### Map View with OpenStreetMap Integration
+  <img src="./images/autocompletion.jpeg" alt="Autocompletion with Photon" width="45%" />
+  <img src="./images/obstacle.jpeg" alt="Obstacle Warning" width="45%" />
 
-![Map View with OpenStreetMap integration](./images/mapview.jpeg)
-
-#### Open Source Routing Machine (OSRM) Integration
-
-![Route directions displayed with OSRM](./images/route_display.jpeg)
-
-#### Autocompletion with Photon API
-
-![Autocompletion with Photon](./images/autocompletion.jpeg)
-
-#### Obstacle Warning (Speed Breaker/Pothole)
-
-![Obstacle Warning](./images/obstacle.jpeg)
-
+</div>
 
 
 
