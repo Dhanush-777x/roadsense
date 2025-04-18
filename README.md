@@ -49,11 +49,11 @@ Here are some screenshots of the app in action:
   
   <img src="./images/data_collection.jpeg" alt="Data Collection" width="30%" />
   <img src="./images/mapview.jpeg" alt="Map View with OpenStreetMap integration" width="30%" />
-  <img src="./images/route_display.jpeg" alt="Route directions displayed with OSRM" width="30%" />
+  <img src="./images/autocompletion.jpeg" alt="Autocompletion with Photon" width="45%" />
 
   <br><br>
 
-  <img src="./images/autocompletion.jpeg" alt="Autocompletion with Photon" width="45%" />
+  <img src="./images/route_display.jpeg" alt="Route directions displayed with OSRM" width="30%" />
   <img src="./images/obstacle.jpeg" alt="Obstacle Warning" width="45%" />
 
 </div>
